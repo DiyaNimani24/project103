@@ -1,0 +1,16 @@
+body
+{
+    background-color: pink;
+    color:rgb(11, 140, 226);
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .heading
+  {
+    font-size:30px;
+    color:rgb(236, 95, 123);
+  }
